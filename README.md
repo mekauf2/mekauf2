@@ -1,7 +1,8 @@
 <h1> Hello friend! Thanks for visiting my GitHub.</h1>
  
 <p>
-## A bit about me:
+<h3> A bit about me:<h3>
+<br />
 I'm mekauf aka Matt Kaufmann, a <a href = 'https://capp.uchicago.edu/'>Computer Science/Public Policy<a> grad student at the University of Chicago. 
 </p> 
 Before that, I was an Associate for J.P. Morgan's Power & Renewables Investment Bank.
