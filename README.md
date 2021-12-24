@@ -9,7 +9,7 @@ I am excited to learn how to use data for good!
 </p>
 Please feel free to connect with me via LinkedIn and we can collaborate :)
 </p>
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 </p>
 <h3>Things I code with</h3>
 <p>
