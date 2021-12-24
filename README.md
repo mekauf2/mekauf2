@@ -9,7 +9,7 @@ I am excited to learn how to use data for good!
 </p>
 Please feel free to connect with me via LinkedIn and we can collaborate :)
 </p>
-<img align="left" alt="LinkedIn" width = "30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" /> (https://www.linkedin.com/in/kaufmannmatthew/)
+[<img align="left" alt="LinkedIn" width = "30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" />](https://www.linkedin.com/in/kaufmannmatthew/)
 </p>
 ## Things I code with
 <p>
