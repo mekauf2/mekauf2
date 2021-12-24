@@ -1,5 +1,5 @@
 <h1> Hello web traveler! 🚀 Thanks for visiting my GitHub.</h1>
-  
+ 
 <p>
 I'm mekauf aka Matt Kaufmann, a <a href = 'https://capp.uchicago.edu/'>Computer Science/Public Policy<a> grad student at the University of Chicago. 
 </p> 
@@ -9,7 +9,7 @@ I am excited to learn how to use data for good!
 </p>
 Please feel free to connect with me via LinkedIn and we can collaborate :)
 </p>
-[<img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" />] [linkedin]
+[<img align="left" alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" />] [linkedin]
 </p>
 <h3>Things I code with</h3>
 <p>
