@@ -1,7 +1,6 @@
-<h1> Hello friend! Thanks for visiting my GitHub.</h1>
- 
+# Hello friend! Welcome to my Github
 <p>
-<h3> A bit about me:<h3>
+### A bit about me:
 <br />
 I'm mekauf aka Matt Kaufmann, a <a href = 'https://capp.uchicago.edu/'>Computer Science/Public Policy<a> grad student at the University of Chicago. 
 </p> 
@@ -13,7 +12,7 @@ Please feel free to connect with me via LinkedIn and we can collaborate :)
 </p>
 [<img align="left" alt="LinkedIn" width = "30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" />] [linkedin]
 </p>
-<h3>Things I code with</h3>
+### Things I code with
 <p>
   <img alt ="R" src = "https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge&logoWidth=30" />
   <img alt="Python" src = "https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
