@@ -1,16 +1,14 @@
 # Hello friend! Welcome to my Github
 
 ## A bit about me:
-I'm mekauf aka Matt Kaufmann, a <a href = 'https://capp.uchicago.edu/'>Computer Science/Public Policy<a> grad student at the University of Chicago. 
+I'm mekauf aka Matt Kaufmann, a <a href = 'https://capp.uchicago.edu/'>Computer Science/Public Policy<a> grad student at the University of Chicago 🎓
 </p> 
-Before that, I was an Associate for J.P. Morgan's Power & Renewables Investment Bank.
+Before that, I was an Associate for J.P. Morgan's Power & Renewables Investment Bank, and I am a total dork for all things power ⚡
 
-### I am excited to learn how to use data for good!
+## I am excited to learn how to use data for good!
 </p>
-Please feel free to connect with me via LinkedIn and we can collaborate :)
-</p>
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png)](https://www.linkedin.com/in/kaufmannmatthew/)
-</p>
+Please feel free to connect with me via <a href = 'https://www.linkedin.com/in/kaufmannmatthew/'> LinkedIn<a> and we can collaborate :)
+
 ## Things I code with
 <p>
   <img alt ="R" src = "https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge&logoWidth=30" />
