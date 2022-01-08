@@ -18,8 +18,9 @@ Please feel free to connect with me via <a href = 'https://www.linkedin.com/in/k
 
 </p>
   
-  <h3>What I'm working on now</h3>
+  <h3>What I've been working on lately</h3>
   <ul>
-      <a href = "https://github.com/mekauf2/advent-of-code">Advent of Code 🎄💻</a>
-    </li>
+      <a href = "https://github.com/mekauf2/advent-of-code">Advent of Code 🎄</a>
+  </p>
+      <a href = "https://github.com/mekauf2/netflix_watch_habits">Netflix Watch Habits 🎥</a>
   </ul>
