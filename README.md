@@ -22,7 +22,7 @@ Please feel free to connect with me via <a href = 'https://www.linkedin.com/in/k
   <ul>
       <a href = "https://github.com/mekauf2/proj-311_service_mapping_veam">Chicago Neighborhood 311 Data and Demographic Mapping 🤓</a>
   </p>
-      <a href = "https://github.com/mekauf2/classifying-opioid-use">Classifying Liklihood of being Prescribed Opioids with ML </a>
+      <a href = "https://github.com/mekauf2/classifying-opioid-use">Classifying Liklihood of Being Prescribed Opioids with ML </a>
   </p>
       <a href = "https://github.com/mekauf2/advent-of-code">Advent of Code 🎄</a>
   </p>
