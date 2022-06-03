@@ -22,7 +22,23 @@ Please feel free to connect with me via <a href = 'https://www.linkedin.com/in/k
   <ul>
       <a href = "https://github.com/mekauf2/proj-311_service_mapping_veam">Chicago Neighborhood 311 Data and Demographic Mapping 🤓</a>
   </p>
+      <a href = "https://github.com/mekauf2/classifying-opioid-use">Classifying Liklihood of being Prescribed Opioids with ML </a>
+  </p>
       <a href = "https://github.com/mekauf2/advent-of-code">Advent of Code 🎄</a>
   </p>
       <a href = "https://github.com/mekauf2/netflix_watch_habits">Netflix Watch Habits 🎥</a>
+  </ul>
+
+</p>
+
+  <h3> Other non-public school projects </h3>
+  <i> Many repos from school projects are private to follow academic integrity rules and respect intellectual property of professors. Code can be shared with prospective employers upon request</i>
+  </p>
+<ul>
+    <li>Recursive Treemap Algorithm Implementation</li>
+    <li>Markov Models for Text Attribution</li>
+    <li>Web Scraping & Web Crawlers with Beautiful Soup 💁🏻‍♂️ 🍜</li>
+    <li>Basic Search Engine Backend with SQLite 🪶</li>
+    <li>Record Linkage Algorithms</li>
+    <li>ML Classification Algorithms - Decision Trees, K-Nearest Neighbors, Perceptrons, Logistic Regression</li>
   </ul>
