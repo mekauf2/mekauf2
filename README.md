@@ -38,7 +38,7 @@ Please feel free to connect with me via <a href = 'https://www.linkedin.com/in/k
     <li>Recursive Treemap Algorithm Implementation</li>
     <li>Markov Models for Text Attribution</li>
     <li>Web Scraping & Web Crawlers with Beautiful Soup 💁🏻‍♂️ 🍜</li>
-    <li>Basic Search Engine Backend with SQLite 🪶</li>
+    <li>Basic Web Search Backend from Linked and Created Database with SQLite and Flask 🪶</li>
     <li>Record Linkage Algorithms</li>
     <li>ML Classification Algorithms - Decision Trees, K-Nearest Neighbors, Perceptrons, Logistic Regression</li>
   </ul>
